@@ -1,3 +1,5 @@
+opencv-python
+mediapipe
 certifi==2018.11.29
 Click==7.0
 Flask==1.0.2
